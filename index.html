@@ -211,7 +211,7 @@
 
 </main>
 
-<footer> <div class="container"> Linux Customization Hub · Open Source Projects </div> </footer>
+<footer> <div class="container"> Linux Customization Hub · fg1211 </div> </footer>
 
 <script> const search = document.getElementById("search"); const cards = document.querySelectorAll(".card"); const sections = document.querySelectorAll("[data-section]"); search.addEventListener("input", () => { const query = search.value.toLowerCase().trim(); cards.forEach(card => { const text = card.textContent.toLowerCase(); card.classList.toggle( "hidden", query !== "" && !text.includes(query) ); }); sections.forEach(section => { const visibleCards = section.querySelectorAll( ".card:not(.hidden)" ); section.classList.toggle( "hidden", query !== "" && visibleCards.length === 0 ); }); }); </script>
 
