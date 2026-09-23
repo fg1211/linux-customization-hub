@@ -2,6 +2,8 @@
 
 A curated collection of useful Linux customization projects, tools, and resources.
 
+https://fg1211.github.io/linux-customization-hub/
+
 ## Categories
 
 * 🎨 **Themes** — GTK, Hyprland, KDE, terminal and desktop themes
